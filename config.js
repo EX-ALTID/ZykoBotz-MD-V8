@@ -65,10 +65,10 @@ global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6282124690625'
-global.nomorown = '6283133329293'
-global.nomorown1 = '6283133329293' //pake No Pacar lo Juga Boleh
+global.nomorown = '6289637252247'
+global.nomorown1 = '6289637252247' //pake No Pacar lo Juga Boleh
 global.namebot = 'ZYKOBOTZ MD'
-global.nameown = 'ZYKO MD'
+global.nameown = 'exalt'
 global.nameown1 = 'LISA AMELIA' //Pake Nama Pacar Lo Juga Boleh
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ INFO BIO DATA OWN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -83,7 +83,7 @@ global.linkgithub = 'Link Githu Belum Diisi' // tarok link github lu
 /*============== STAFF ==============*/
 global.owner = [
   ['6283133329293', 'ZYKO MD', true],
-  ['-', 'ISI KALAU ADA', true],
+  ['6289637252247', 'exalt', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
